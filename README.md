@@ -25,7 +25,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/Thang1703hrsh/End-to-End-MLOps-Prj
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
