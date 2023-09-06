@@ -1,0 +1,112 @@
+[2023-09-06 08:57:20,559: INFO: main: Welcome to our custom logging]
+[2023-09-06 08:58:09,726: INFO: main: Welcome to our custom logging]
+[2023-09-06 13:51:20,205: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 13:51:20,206: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 13:52:23,869: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 13:52:23,870: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 13:52:23,873: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 13:52:23,874: INFO: common: created directory at: artifacts]
+[2023-09-06 13:52:23,874: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 13:52:24,821: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9520:5CAE:104099:136C9A:64F821A8
+Accept-Ranges: bytes
+Date: Wed, 06 Sep 2023 06:52:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1237-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693983144.243092,VS0,VE306
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2246631e4791ed862e51e7daa184083b98357bc3
+Expires: Wed, 06 Sep 2023 06:57:24 GMT
+Source-Age: 0
+
+]
+[2023-09-06 15:12:29,073: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 15:12:29,074: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 15:12:29,075: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 15:12:29,076: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 15:12:29,076: INFO: common: created directory at: artifacts]
+[2023-09-06 15:12:29,078: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 15:12:29,078: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-06 15:12:29,080: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-06 15:15:10,097: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 15:15:10,098: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 15:15:10,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 15:15:10,100: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 15:15:10,101: INFO: common: created directory at: artifacts]
+[2023-09-06 15:15:10,101: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 15:15:10,101: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-06 15:15:10,102: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-06 15:17:01,228: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 15:17:01,229: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 15:17:01,230: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 15:17:01,231: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 15:17:01,232: INFO: common: created directory at: artifacts]
+[2023-09-06 15:17:01,232: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 15:17:01,232: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-06 15:17:01,234: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-06 15:17:16,548: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 15:17:16,549: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 15:17:16,550: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 15:17:16,551: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 15:17:16,552: INFO: common: created directory at: artifacts]
+[2023-09-06 15:17:16,552: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 15:17:16,552: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-06 15:17:16,554: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-06 15:17:49,512: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 15:17:49,513: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 15:17:49,513: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 15:17:49,515: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 15:17:49,515: INFO: common: created directory at: artifacts]
+[2023-09-06 15:17:49,516: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 15:17:50,437: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F7A2:6D97:111465:147AF4:64F835AD
+Accept-Ranges: bytes
+Date: Wed, 06 Sep 2023 08:17:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1270-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1693988270.776838,VS0,VE378
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 416514474f130fb7d6aa348ffbb420ecc4b51746
+Expires: Wed, 06 Sep 2023 08:22:50 GMT
+Source-Age: 0
+
+]
+[2023-09-06 15:17:50,446: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
