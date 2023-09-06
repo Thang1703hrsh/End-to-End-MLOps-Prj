@@ -110,3 +110,35 @@ Source-Age: 0
 [2023-09-06 15:17:50,446: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2023-09-06 21:41:58,457: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 21:41:58,460: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 21:41:58,463: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 21:41:58,464: INFO: common: created directory at: artifacts]
+[2023-09-06 21:41:58,465: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 21:41:58,466: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2023-09-06 21:43:05,194: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 21:43:05,195: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 21:43:05,196: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 21:43:05,198: INFO: common: created directory at: artifacts]
+[2023-09-06 21:43:05,198: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-06 21:59:55,216: INFO: utils: Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2023-09-06 21:59:55,216: INFO: utils: NumExpr defaulting to 8 threads.]
+[2023-09-06 21:59:55,375: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-06 21:59:55,377: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 21:59:55,377: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 21:59:55,378: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 21:59:55,379: INFO: common: created directory at: artifacts]
+[2023-09-06 21:59:55,379: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-06 21:59:55,379: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-06 21:59:55,381: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-06 21:59:55,381: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-09-06 21:59:55,382: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-06 21:59:55,383: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-06 21:59:55,384: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-06 21:59:55,385: INFO: common: created directory at: artifacts]
+[2023-09-06 21:59:55,386: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-06 21:59:55,398: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
