@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/End-to-End-MLOps-Prj/mlruns/0/0b085c5a9cee4c30b7d5a12f657316b4/artifacts
+end_time: 1694097751372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b085c5a9cee4c30b7d5a12f657316b4
+run_name: zealous-hen-510
+run_uuid: 0b085c5a9cee4c30b7d5a12f657316b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694097748606
+status: 3
+tags: []
+user_id: Admin
