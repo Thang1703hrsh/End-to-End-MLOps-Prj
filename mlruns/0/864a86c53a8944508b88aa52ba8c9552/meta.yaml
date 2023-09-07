@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/End-to-End-MLOps-Prj/mlruns/0/864a86c53a8944508b88aa52ba8c9552/artifacts
+end_time: 1694079747942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 864a86c53a8944508b88aa52ba8c9552
+run_name: merciful-steed-210
+run_uuid: 864a86c53a8944508b88aa52ba8c9552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694079744143
+status: 3
+tags: []
+user_id: Admin

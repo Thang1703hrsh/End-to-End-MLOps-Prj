@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/End-to-End-MLOps-Prj/mlruns/0/fa7043c90bef426986c924bff49060ab/artifacts
+end_time: 1694079305897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa7043c90bef426986c924bff49060ab
+run_name: thundering-sheep-87
+run_uuid: fa7043c90bef426986c924bff49060ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694079302077
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/End-to-End-MLOps-Prj/mlruns/0/9f4979415a2a45eb9b163c52408e7fbc/artifacts
+end_time: 1694079603404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f4979415a2a45eb9b163c52408e7fbc
+run_name: invincible-pug-438
+run_uuid: 9f4979415a2a45eb9b163c52408e7fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694079599467
+status: 3
+tags: []
+user_id: Admin
